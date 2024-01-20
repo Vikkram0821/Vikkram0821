@@ -1,11 +1,14 @@
 ### Hi there 👋
-- 🌱 I’m currently learning MERN STACK
-- Seeking out challenging opportunities and projects that allow me to learn and develop new skills
-- Tech stacks that I've been working on,
-[Front end] 🧑‍💻
+- A positive-minded individual who has an extreme passion in becoming Software developer with Cloud and Devops skills.💻
 
-• HTML
-• CSS (Bootstrap)
-• Javascript (Npm & Jest) [ jQuery ]
-• Version Control (git & GitHub)
---> Framework : REACT
+#### 🚀 Technologies & Tools:
+- Programming Languages: Javascript,Python
+- Web Technologies: Bootstrap, React.
+
+#### 🌱 Learning & Exploring:
+- Currently diving deep into MERN Stack developement.
+
+#### 📫 How to Reach Me:
+- LinkedIn: www.linkedin.com/in/
+vikkram-s-m-274604262
+- Instagram: Vikkram_vikky
