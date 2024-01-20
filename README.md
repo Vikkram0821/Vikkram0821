@@ -9,6 +9,5 @@
 - Currently diving deep into MERN Stack developement.
 
 #### 📫 How to Reach Me:
-- LinkedIn: www.linkedin.com/in/
-vikkram-s-m-274604262
+- LinkedIn: www.linkedin.com/in/vikkram-s-m-274604262
 - Instagram: Vikkram_vikky
