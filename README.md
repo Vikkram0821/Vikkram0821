@@ -3,7 +3,9 @@
 
 #### 🚀 Technologies & Tools:
 - Programming Languages: Javascript,Python
-- Web Technologies: Bootstrap, React.
+- Front End: HTML/CSS
+- Web Technologies: Bootstrap, React ,Express.
+- Database: MySQL
 
 #### 🌱 Learning & Exploring:
 - Currently diving deep into MERN Stack developement.
