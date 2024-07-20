@@ -1,4 +1,6 @@
-### <h2> Hello there 👋, I'm VIKKRAM SM 🧑‍💻<h2>
+<p align="center">
+  Hello there 👋, I'm <strong>VIKKRAM SM</strong> 🧑‍💻
+</p>
 
 📅 **Date of Birth:** 08/12/2003  
 📧 **Email:** Vikkram.sm1@gmail.com  
