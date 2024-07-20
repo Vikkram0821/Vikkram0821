@@ -11,8 +11,8 @@
 
 ---
 
-🚀 My Coding Playground:
-I specialize in JavaScript, React.js, Python, and the MERN stack. My repositories include personal projects, open-source contributions, and experiments where I explore new ideas and push the boundaries of web development.
+<H4>🚀 My Coding Playground:
+I specialize in JavaScript, React.js, Python, and the MERN stack. My repositories include personal projects, open-source contributions, and experiments where I explore new ideas and push the boundaries of web development.</H4>
 ---
 
 #### 🚀 Technologies & Tools
