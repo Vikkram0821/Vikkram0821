@@ -1,9 +1,15 @@
-### <h1> Hello there 👋, I'm Vikkram SM 🧑‍💻⌨️ | APPLICATION DEVELOPER<h1>
+### <h2> Hello there 👋, <span style="color🟦">I'm Vikkram SM<span> 🧑‍💻⌨️<h2>
 
 📅 **Date of Birth:** 08/12/2003  
 📧 **Email:** Vikkram.sm1@gmail.com  
 📞 **Phone:** +91 7092745649  
 📍 **Location:** Coimbatore, Tamil Nadu
+
+---
+☕ As a passionate Full Stack Developer, I'm all about turning coffee into code. Here in my GitHub galaxy, you'll discover a diverse array of projects that highlight my journey from Hello World! to crafting sophisticated, user-focused web applications.💻
+
+🚀 Coding is My Playground:
+I thrive on JavaScript, React.js, Python, and all things MERN stack. My repositories feature a mix of personal challenges, open-source contributions, and experimental projects where I push the boundaries of web development.
 
 ---
 
